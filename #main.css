@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0%;
+}
+.header {
+    display: inline;
+}
+article {
+    width:1366px;
+    margin:0 auto;
+}
+
+.article {
+    display: flex;
+    flex-wrap: wrap;
+}
